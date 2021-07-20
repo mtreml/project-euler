@@ -1,2 +1,2 @@
-# project-euler
+# Project Euler Attempts
 Attempting the ever tempting...
